@@ -1,6 +1,8 @@
 package com.example.git;
 
 public class Test {
+	
+	public int a;
 
 	public Test() {
 		// TODO Auto-generated constructor stub
