@@ -5,7 +5,7 @@ public class Test {
 	public int a = 2;
 	private int b = 3;
 	private int c = 4;
-	private int d = 7;
+	private int d = 8;
 
 	public Test() {
 		// TODO Auto-generated constructor stub
