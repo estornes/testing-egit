@@ -9,6 +9,7 @@ public class Test {
 
 	public Test() {
 		// TODO Auto-generated constructor stub
+		d= 11;
 	}
 
 	public static void main(String[] args) {
